@@ -1,0 +1,120 @@
+.position{
+	font-size:3rem;
+	text-align:center;
+}
+.center{
+	text-align:center;
+}
+.card-title{
+	font-size:2rem;
+	text-align:center;
+	font-family: "Poppins", sans-serif;
+}
+.card-title1{
+	font-size:1.5rem;
+	text-align:left;
+	font-family: "Poppins", sans-serif;
+}
+.nav{
+	padding-top:2rem;
+}
+.classynav ul> li> a:hover {
+    
+	color:#FFCC71;
+}
+.classynav ul li{
+	padding:10px;
+	font-size:1.1rem;
+}
+.card-body{
+	height:25rem;
+}
+.col-sm-6:hover {
+	transform: scale(1.1);
+}
+.row{
+	padding-top:20px;
+}
+.fas fa-graduation-cap{
+	size:1rem;
+	align:center;
+}
+i{
+	font-size:3rem;
+	color:white;
+	padding:10px;
+}
+.center{
+	text-align:center;
+}
+.container-fluid{
+	text-align:center;
+}
+.mb-4{
+	text-align:left;
+}
+.mm-4{
+	text-align:left;
+	color:#9C9C9C;
+}
+.test{
+	border-radius: 50%;
+  background: blue;
+  padding: 2px; 
+  width: 75px;
+  height: 75px; 
+}
+#DU{
+	font-size: 40px;
+    color: #fff;
+}
+.DU{
+	color: rgba(255, 255, 255, 0.9);
+	font-family:"Poppins", Arial, sans-serif;
+	font-size:1.5rem;
+}
+.ftco-counter .text strong.number {
+    font-weight: 600;
+    font-size: 40px;
+    color: #fff;
+    display: block;
+}
+.ftco-counter .text span {
+    display: block;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.card-resize{
+	height:500px;
+}
+.font-color{
+	color: #333333;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+	font-size:1.2rem;
+	text-align:left;
+}
+.card-re{
+	height:350px;
+}
+.card-text{
+	text-align:left;
+	color:#515151;
+	font-weight: 600;
+}
+.h-size{
+    font-size: 44px;
+    font-weight: 600;
+	font-family: "Poppins", sans-serif;
+}
+.p-size{
+	text-align: center!important;
+	color:#515151;
+	font-weight: 600;
+	margin-top: 0;
+    margin-bottom: 1rem;
+	font-size: 18px;
+}
+.owl-theme{
+	margin-top:50px;
+}
